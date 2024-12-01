@@ -1,3 +1,7 @@
+build/
+raylib/
+
+# CMake specific
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
